@@ -7,9 +7,9 @@
 #### Name: [Sruthy M L](https://github.com/sru-thy)
 - Place: Kerala, India
 - Bio: Student
-#### Name : [hisham ashraf] 
+#### Name : [hishamashraf] 
 - Place : Kerala
--Bii : student
+-Bio : student
 
 https://github.com/Hishamashraf
 
